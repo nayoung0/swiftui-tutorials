@@ -4,7 +4,7 @@
 
 #### 1. SwiftUI Essentials
 - [x] Creating and Combining Views
-- [ ] Building Lists and Navigation
+- [x] Building Lists and Navigation
 - [ ] Handling User Input
 
 #### 2. Drawing and Animation
