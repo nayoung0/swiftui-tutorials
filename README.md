@@ -8,7 +8,7 @@
 - [x] Handling User Input
 
 #### 2. Drawing and Animation
-- [ ] Drawing Paths and Shapes
+- [x] Drawing Paths and Shapes
 - [ ] Animating Views and Transitions
 
 #### 3. App Design and Layout
