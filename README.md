@@ -12,7 +12,7 @@
 - [x] Animating Views and Transitions
 
 #### 3. App Design and Layout
-- [ ] Composing Complex Interfaces
+- [x] Composing Complex Interfaces
 - [ ] Working with UI Controls
 
 
