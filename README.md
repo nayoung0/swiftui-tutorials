@@ -13,7 +13,7 @@
 
 #### 3. App Design and Layout
 - [x] Composing Complex Interfaces
-- [ ] Working with UI Controls
+- [x] Working with UI Controls
 
 
 
